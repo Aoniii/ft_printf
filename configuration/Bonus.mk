@@ -1,0 +1,15 @@
+BONUS_SRCS		= sources/ft_printf.c
+BONUS_SRCS		+= sources/exec.c
+BONUS_SRCS		+= bonus/convert_bonus.c
+BONUS_SRCS		+= sources/print.c
+BONUS_SRCS		+= sources/utils/contains.c
+BONUS_SRCS		+= sources/utils/ft_strlen.c
+BONUS_SRCS		+= sources/utils/ft_itoa.c
+BONUS_SRCS		+= sources/utils/ft_itoa_base.c
+BONUS_SRCS		+= sources/utils/ft_realloc.c
+BONUS_SRCS		+= sources/utils/apply.c
+BONUS_SRCS		+= sources/print/ft_putaddr.c
+BONUS_SRCS		+= sources/print/ft_putchar.c
+BONUS_SRCS		+= sources/print/ft_puthexa.c
+BONUS_SRCS		+= sources/print/ft_putnbr.c
+BONUS_SRCS		+= sources/print/ft_putstr.c
